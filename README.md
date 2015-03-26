@@ -1,4 +1,4 @@
 # gitskills
 test clone repository
 
-Fixed conflict
+Fixed conflict DO SOMETHING
