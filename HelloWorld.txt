@@ -1,1 +1,3 @@
-Hello world. I fixed the bug now.
+
+Hello world. I can't commit now...and I fixed the bug
+
