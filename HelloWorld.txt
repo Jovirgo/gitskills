@@ -1,0 +1,3 @@
+
+Hello world. I can't commit now...and I fixed the bug
+
